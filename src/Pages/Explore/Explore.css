@@ -1,0 +1,57 @@
+.main-content {
+    margin-left: 225px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+p.exploretext {
+    font-size: 18px;
+    color: #000;
+    font-weight: 500;
+}
+svg.arrowloacation {
+    color: #E66100;
+    margin-left: 10px;
+    margin-top: 4px;
+    font-size: 18px;
+}
+.location-select button {
+    background-color: #fff;
+    border: none;
+    color: #E66100;
+    padding: 0;
+    font-size: 14px;
+    padding-left: 6px;
+    font-weight: 600;
+}
+svg.location-drop {
+    font-size: 25px;
+    margin-bottom: 2px;
+    color: #E66100;
+}
+select.location-select.form-select {
+    background-color: #fff;
+    border: none;
+    color: #E66100;
+    padding: 0px 34px;
+    font-size: 16px;
+    padding-left: 12px;
+    font-weight: 600;
+    width: auto;
+    margin-left: 10px;
+}
+.form-select:focus{
+    box-shadow: none!important;
+}
+select::-ms-expand {
+    display: none!important;
+}
+.Main{
+    width: 100%;
+}
+.category-list{
+    width: 250px;
+    position: absolute;
+}
+.latest-local, .popular-deals{
+    margin-left: 250px;
+}
