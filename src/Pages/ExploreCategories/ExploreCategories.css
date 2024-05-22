@@ -1,0 +1,18 @@
+.cat-text {
+    font-size: 15px;
+    color: #E66100;
+    font-weight: 600;
+}
+svg.cat-icon {
+    font-size: 21px!important;
+    margin-right: 6px;
+    margin-bottom: 5px;
+}
+.explore-cat p{
+    font-size: 16px;
+    padding-bottom: 15px;
+}
+.explore-cat{
+    background-color: #e9f0e3;
+    border-radius: 20px;
+}

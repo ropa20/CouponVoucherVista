@@ -1,0 +1,11 @@
+.banner-slider .carousel-indicators [data-bs-target] {
+    width: 10px!important;
+    height: 10px!important;
+    border-radius: 50%!important;
+    background-color: #A9CF4B!important;
+}
+.banner-slider .carousel-indicators {
+    bottom: -52px!important;
+    left: auto!important;
+    margin-right: 11px!important;
+}
